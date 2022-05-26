@@ -4,8 +4,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-sakshammishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saksham-mishra//)](https://www.linkedin.com/in/saksham-mishra/) 
 
-Saksham050720/Saksham050720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
  #### ![](https://img.shields.io/badge/SQL-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Python-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/R-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Tableau-%7C-yellowgreen) 
  
  <!-- ![](https://img.shields.io/badge/Azure-%7C-blue)  -->
